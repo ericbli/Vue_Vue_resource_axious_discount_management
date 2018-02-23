@@ -1,2 +1,17 @@
-# Vue_Vue_resource_axious_discount_management
-This is front end for Java backend project.
+# Discount
+
+> Simple discount manager frontend to be used with the [SlimPHP RESTful API](https://github.com/bradtraversy/slimapp)
+
+## Installation
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
