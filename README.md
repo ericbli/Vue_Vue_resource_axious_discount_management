@@ -1,6 +1,6 @@
 # Discount
 
-> Simple discount manager frontend to be used with the [SlimPHP RESTful API](https://github.com/bradtraversy/slimapp)
+ Simple discount manager frontend with vue vue resorce axios to be used with the Java backend project
 
 ## Installation
 
